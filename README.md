@@ -5,21 +5,29 @@ If any questions regarding the code for this robot, please feel free to contact 
 
 Members on this project:
 
--Aaron Moreno (Motors)
--Liana Garcia (Motors)
--Ashlie Abbale (Camera)
--Brenda Carrillo (Motors)
--Andres Coit (Camera)
--Dessirae Garcia (Arm)
--Christian Snowden (Camera)
--Jeffrey Duano (Camera)
--Austin Carrillo (Arm)
--Jared (Camera)
+-Aaron Moreno (Motors);
+-Liana Garcia (Motors);
+-Ashlie Abbale (Camera);
+-Brenda Carrillo (Motors);
+-Andres Coit (Camera);
+-Dessirae Garcia (Arm);
+-Christian Snowden (Camera);
+-Jeffrey Duano (Camera);
+-Austin Carrillo (Arm);
+-Jared (Camera);
 
 Officers on this Project:
 
--Alexander Ibarra: Chairman
--Ruairidh McWilliam: Vice Chairman
--Vincent Le: Treasurer
--Josh Ramirez: Secretary
--Tommy Kercheville: Senior Advisor
+-Alexander Ibarra: Chairman;
+-Ruairidh McWilliam: Vice Chairman;
+-Vincent Le: Treasurer;
+-Josh Ramirez: Secretary;
+-Tommy Kercheville: Senior Advisor;
+
+
+Hardware used:
+
+-Adafruit Motor PiHat;
+-Adafruit Servo PiHat;
+-Pololu Motor with Encoder(2);
+-RPi v3 Camera Module
